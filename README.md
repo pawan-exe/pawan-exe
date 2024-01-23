@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif)](https://pawan-exe.io)
+[![MasterHead](https://i.pinimg.com/564x/c4/14/db/c414dbebbd15f8ce3dc6b01749810ec6.jpg)](https://pawan-exe.io)
 <h1 align="center">Hi 👋, I'm Pawan Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/026/485/528/original/back-end-development-line-2d-animation-software-programmer-4k-motion-graphic-black-man-developer-coding-computer-coder-typing-on-laptop-linear-animated-cartoon-flat-concept-white-background-video.jpg">
@@ -27,6 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawan-exe&show_icons=true&locale=en&layout=compact" alt="pawan-exe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawan-exe&show_icons=true&locale=en" alt="pawan-exe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawan-exe&" alt="pawan-exe" /></p>
