@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg)](https://pawan-exe.io)
+<p align="center"> <img src="https://i.pinimg.com/564x/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg" alt="pawan-exe" /> </p>
 <h1 align="center">Hi 👋, I'm Pawan Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/026/485/528/original/back-end-development-line-2d-animation-software-programmer-4k-motion-graphic-black-man-developer-coding-computer-coder-typing-on-laptop-linear-animated-cartoon-flat-concept-white-background-video.jpg">
