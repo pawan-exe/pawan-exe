@@ -9,17 +9,17 @@
 
 - 🌱 I’m currently learning **Node JS**
   
-- 👨‍💻 All of my projects are available at [https://my-portfolio-pvg.vercel.app/](https://my-portfolio-pvg.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-pvg.vercel.app/](My Portfolio)
 
 - 💬 Ask me about **Java , MERN**
 
-- 📫 How to reach me **pawangupta@gmail.com**
+- 📫 How to reach me **pawangupta63431@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11m-DYGaPJQMtg_fMWrxz44owiSYQ0jUW/view?usp=drivesdk](https://drive.google.com/file/d/11m-DYGaPJQMtg_fMWrxz44owiSYQ0jUW/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11m-DYGaPJQMtg_fMWrxz44owiSYQ0jUW/view?usp=drivesdk](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pawankumar-gupta-59a61b247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawankumar-gupta-59a61b247" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pawan-gupta-59a61b247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawankumar-gupta-59a61b247" height="30" width="40" /></a>
 <a href="https://instagram.com/_pawan_zx.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pawan_zx.03" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pawanzx01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pawanzx01" height="30" width="40" /></a>
 </p>
