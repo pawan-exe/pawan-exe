@@ -3,19 +3,18 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan-exe&label=Profile%20views&color=0e75b6&style=flat" alt="pawan-exe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Node JS**
   
-- 👨‍💻 All of my projects are available at [https://my-portfolio-pvg.vercel.app/](My Portfolio)
+- 👨‍💻 You can visit [My Portfolio](https://my-portfolio-pvg.vercel.app/)
 
 - 💬 Ask me about **Java , MERN**
 
 - 📫 How to reach me **pawangupta63431@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11m-DYGaPJQMtg_fMWrxz44owiSYQ0jUW/view?usp=drivesdk](Resume)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,5 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawan-exe&show_icons=true&locale=en&layout=compact" alt="pawan-exe" /></p>
 
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawan-exe&" alt="pawan-exe" /></p>
