@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://i.imgur.com/wTUx6MP.png" alt="pawan-exe" /> </p>
 <h1 align="center">Hi 👋, I'm Pawan Gupta</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
